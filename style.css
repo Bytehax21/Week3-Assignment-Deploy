@@ -47,7 +47,7 @@ body {
 .Menu li a {
   transition: all 0.4s ease;
   color: black;
-  font-weight: 400px;
+  font-weight: 400;
 
 }
 .Menu li a:hover {
